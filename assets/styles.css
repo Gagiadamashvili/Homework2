@@ -1,0 +1,28 @@
+h1{
+    background-color: green; color: white;
+}
+
+
+h2{
+    background-color: rgb(87, 188, 224); color: red;
+}
+
+table, th, td {
+
+    border: 2px solid black; border-spacing: 0px;
+}
+th{
+
+    background-color: purple;
+}
+td{
+
+    background-color: dodgerblue;
+}
+
+
+
+
+
+
+
